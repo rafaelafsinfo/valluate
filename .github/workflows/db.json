@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "budjet": "123242352",
+      "name": "Rafael Alves Freitas da Silva",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "vitor lucas kohls correa",
+      "budjet": "123456789",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Rafael Alves Freitas da Silva",
+      "budget": "453986",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "vitor lucas kohls correa",
+      "budget": "123456789",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
