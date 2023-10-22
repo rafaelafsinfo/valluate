@@ -1,0 +1,10 @@
+.project_container {
+    padding: 2em;
+    min-height: 39.5em;
+}
+
+.title_container{
+    margin-bottom: 0.5em;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,172 @@
+{
+  "projects": [
+    {
+      "name": "You.Dance()",
+      "budget": "150",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "jogo da velha",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "desenvolvedor",
+          "cost": "1000",
+          "description": "equipe de desenvolvimento do jogo",
+          "id": "3c5e3999-9ed1-4a8a-8ab6-8a87d8c19989"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "flappy bird",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1700,
+      "services": [
+        {
+          "name": "desenvolvedor",
+          "cost": "1500",
+          "description": "desenvolvedor da aplicação",
+          "id": "3e089c2e-0049-4ef7-bbda-7b770d65c563"
+        },
+        {
+          "name": "designer",
+          "cost": "200",
+          "description": "designer da aplicação",
+          "id": "3c05017f-d0af-4fe9-90cf-218748adf80f"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "snake game",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1500,
+      "services": [
+        {
+          "name": "desenvolvedor",
+          "cost": "1500",
+          "description": "desenvolvedor do jogo",
+          "id": "f1741640-4ba3-4652-8967-1cab916a4af7"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "budget": "1000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "cortar",
+          "cost": "200",
+          "description": "lavar",
+          "id": "7b406efd-5a2e-41ff-8fd3-feee86238976"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "teste",
+      "budget": "1200",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 800,
+      "services": [
+        {
+          "name": "obra",
+          "cost": "800",
+          "id": "1ffa164b-f8bc-427e-b7c0-471879bfd2f5"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "Rafael Alves Freitas da Silva",
+      "budget": "1200",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 129,
+      "services": [
+        {
+          "name": "infra",
+          "cost": "129",
+          "description": "teste",
+          "id": "d86bed4a-17af-44f0-be75-115b054c11c2"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "alma",
+      "budget": "10",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 20
+    },
+    {
+      "name": "reforma do carro",
+      "budget": "10000",
+      "category": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 21
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Outro"
+    }
+  ]
+}

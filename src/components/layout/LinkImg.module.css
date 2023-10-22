@@ -1,0 +1,29 @@
+
+.img{
+    width: 30em;
+    height: 30em;
+    padding: 0.5em;
+    transition: 0.5s;
+    margin: 0.5em;
+    grid-row: auto;
+    border-radius: 10%;
+    grid-template-columns: 2fr;
+}
+
+.img:hover{
+    transition: 0.5s;
+    padding: 1em;
+    background-color: #ba55d3;
+}
+
+.img:active{
+    transition: 0.5s;
+    padding: 1em;
+    background-color: #6f6;
+}
+
+h3{
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+}

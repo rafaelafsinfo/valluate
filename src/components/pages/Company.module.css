@@ -1,0 +1,46 @@
+.home_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+.home_container h1{
+    font-size: 3em;
+    margin-bottom: .5em;
+}
+
+.home_container h1 span{
+    color: #ba55d3;
+    padding: 0 .2em;
+    background-color: #3f3f3f;
+}
+.home_container ::-webkit-scrollbar{
+    scrollbar-color: #ba55d3;
+}
+.home_container p{
+    margin-bottom: 1.5em;
+    color: #7b7b7b;
+}
+
+.button{
+    margin: 0.5em;
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+}
+
+h3{
+    display: flex;
+    flex-direction: column;
+}
+
+.collum{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+}

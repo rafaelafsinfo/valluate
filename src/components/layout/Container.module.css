@@ -1,0 +1,31 @@
+.container {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+body::-webkit-scrollbar{
+    width: 12px;
+}
+body::-webkit-scrollbar-track{
+    background: #222;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: #ba55d3;
+    border-radius: 20px;
+    border: 3px solid #ba55d3;
+}
+.min-height{
+    min-height: 75%;
+}
+
+.start{
+    justify-content: flex-start;
+}
+
+.column{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
